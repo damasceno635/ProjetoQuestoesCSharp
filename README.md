@@ -1,6 +1,6 @@
 # ProjetoQuestoesCSharp
 
-Este projeto visa cumprir com o requisito de testar conhecimento e obter nota na matéria de Programação Orientada a Objeto, referente ao curso de Análise e Desenvolvimento de Sistemas. As presentes questões/código foi feito no programa Visual Studio, em C# - como pedido pelo professor. 
+Este projeto visa cumprir com o requisito de testar conhecimento e obter nota na matéria de Programação Orientada a Objeto, referente ao curso de Análise e Desenvolvimento de Sistemas. As presentes questões/código foi feito em C# no programa Visual Studio, com Console Application - como pedido pelo professor. 
 
 ## Índice
 
